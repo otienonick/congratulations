@@ -1,4 +1,4 @@
-# {Application Name}
+
 #### {congratulations}, 
 #### By **{nick otieno}**
 ## Description
